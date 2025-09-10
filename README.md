@@ -31,7 +31,7 @@ Welcome to my GitHub profile! 🚀
 ---
 
 ## 📫 Connect With Me
-- 🌐 [LinkedIn](https://www.linkedin.com/in/husainlokii/) *(add your link here)*  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/husainlokii/) 
 - 📧 Reach me at: **husainlokhandwala33@gmail.com**
 
 ---
