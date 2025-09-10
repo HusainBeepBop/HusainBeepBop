@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I’m Husain!
 
-<!--
-**HusainBeepBop/HusainBeepBop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 🚀  
 
-Here are some ideas to get you started:
+## 🌟 About Me
+- 🎓 B.Tech Mechanical Engineering student at **IITRAM**  
+- 🔧 Passionate about **engineering + electronics + software**  
+- 🌞 Currently building:  
+- 🏠 Founder of 
+- 🤖 Interests: Robotics, IoT, AI-powered design tools  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech & Tools I Work With
+- 💻 **Languages**: C, C++, Python, Embedded C, JavaScript  
+- 🔬 **Engineering**: CAD (Fusion 360, FreeCAD), Materials Science, Thermodynamics  
+- 📡 **Electronics**: ESP32, Raspberry Pi, MCP23017, Relays, Sensors  
+- ☁️ **Software**: ROS2, LAMMPS, KiCad, Blender  
+
+---
+
+## 🚀 Featured Projects
+
+---
+
+## 📊 GitHub Stats
+![Husain’s GitHub stats](https://github-readme-stats.vercel.app/api?username=HusainBeepBop&show_icons=true&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HusainBeepBop&layout=compact&theme=radical)  
+
+---
+
+## 📫 Connect With Me
+- 🌐 [LinkedIn](https://www.linkedin.com/in/husainlokii/) *(add your link here)*  
+- 📧 Reach me at: **husainlokhandwala33@gmail.com**
+
+---
+
+✨ _“Engineering is about turning imagination into reality.”_
